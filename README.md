@@ -29,6 +29,7 @@ This will turn JPG, PNG, or any other common image files into ascii.
 ## Tryhackme and Certifications:
 - My Tryhackme account: [My Profile](https://tryhackme.com/p/Basajaun)
 - My Certifications: [Click me!](https://www.credly.com/users/david-whene/badges#credly)
+
 ---
 
 ### Tools/ other knowledge!
