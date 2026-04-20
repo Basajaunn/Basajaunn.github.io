@@ -22,7 +22,7 @@
 ## Python Projects
 ### Ascii Image generator: Coming soon!
 This will turn JPG, PNG, or any other common image files into ascii.
-### Password generator: [See it here]()
+### Password generator: [See it here](https://github.com/Basajaunn/working-demos/blob/main/Password-gen/passwordgen.py)
 
 ---
 
