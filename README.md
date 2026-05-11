@@ -15,15 +15,22 @@
 - Cybersecurity labs and CTFs
 - Programming languages: Python
     - Learning Bash and Powershell
-    - Want to learn C for reverse engineering!
+    - Just began learning C for a better understanding of the relationship between hardware and software!
 
 ---
 
 ## Python Projects
-### Ascii Image generator: Coming soon!
-This will turn JPG, PNG, or any other common image files into ascii.
+### Password Strength Tester
+Currently in development, will be here soon!
+### Hash Cracker (Coming soon)
+**For educational use only!!!**
+Will crack common hashes to show knowledge of cryptography and python proficiency.
 ### Password generator: [See it here](https://github.com/Basajaunn/working-demos/blob/main/Password-gen/passwordgen.py)
 
+## C Projects
+### Keylogger (Coming soon)
+**For educational uses and showing my C knowledge only!**
+This will track keystrokes of a user when the file is executed.
 ---
 
 ## Tryhackme and Certifications:
