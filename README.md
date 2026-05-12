@@ -21,7 +21,7 @@
 
 ## Python Projects
 ### Password Strength Tester
-Currently in development, will be here soon!
+You can see it here and run it yourself! [Check your password!](https://github.com/Basajaunn/Password-Strength-Test)
 ### Hash Cracker (Coming soon)
 **For educational use only!!!**
 Will crack common hashes to show knowledge of cryptography and python proficiency.
