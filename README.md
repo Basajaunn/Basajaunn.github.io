@@ -20,7 +20,7 @@
 ---
 
 ## Python Projects
-### Password Strength Tester
+### Password Strength Test
 You can see it here and run it yourself! [Check your password!](https://github.com/Basajaunn/Password-Strength-Test)
 ### Hash Cracker (Coming soon)
 **For educational use only!!!**
