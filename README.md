@@ -24,7 +24,7 @@
 You can see it here and run it yourself! [Check your password!](https://github.com/Basajaunn/Password-Strength-Test)
 ### Hash Cracker (Coming soon)
 **For educational use only!!!**
-Will crack common hashes to show knowledge of cryptography and python proficiency.
+Check it out! Do not use for malicious purposes [Click here](https://github.com/Basajaunn/SaltedSpud)
 ### Password generator: [See it here](https://github.com/Basajaunn/working-demos/blob/main/Password-gen/passwordgen.py)
 
 ## C Projects
